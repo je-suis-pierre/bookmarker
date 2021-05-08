@@ -1,3 +1,2 @@
-./css/bootstrap.min.css
-./js/bootstrap.min.js
-.gitignore
+css/bootstrap.min.css
+js/bootstrap.min.js
